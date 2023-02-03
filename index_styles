@@ -1,5 +1,5 @@
 body {
-  background-color:#000000;
-  color:#ff6347;
+  background-color: #000000;
+  color: #ff6347;
   text-align: center;
 }
