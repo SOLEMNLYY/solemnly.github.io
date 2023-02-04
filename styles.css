@@ -1,12 +1,17 @@
-body,header {
+body,header,#about {
   text-align: center;
   color: red;
   background-color: black;
+  font-smooth: never;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: none;
 }
 a {
   color: red;
   padding: 40px;
 }
 img {
+  height: 20%;
+  width: 20%;
   padding: 40px;
 }
