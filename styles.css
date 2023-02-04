@@ -1,8 +1,12 @@
-header {
-    color: #ff6347;
-    text-align: center;
-  }
-body {
-    background-color: #000000;
-    color: #ff6347;
-  }
+body,header {
+  text-align: center;
+  color: red;
+  background-color: black;
+}
+a {
+  color: red;
+  padding: 40px;
+}
+img {
+  padding: 40px;
+}
